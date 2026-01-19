@@ -1,1 +1,1 @@
-# Zadachnik-JavaScript
+# blended-JS
